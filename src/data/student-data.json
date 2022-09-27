@@ -1,0 +1,402 @@
+[
+    {
+     "name": "Waino",
+     "surname": "Gulgowski",
+     "matematik": 87,
+     "trafik": 57,
+     "cografya": 99,
+     "id": "1"
+    },
+    {
+     "name": "Gwendolyn",
+     "surname": "Ritchie",
+     "matematik": 88,
+     "trafik": 96,
+     "cografya": 66,
+     "id": "2"
+    },
+    {
+     "name": "Kathlyn",
+     "surname": "Doyle",
+     "matematik": 35,
+     "trafik": 77,
+     "cografya": 77,
+     "id": "3"
+    },
+    {
+     "name": "Rebekah",
+     "surname": "Shanahan",
+     "matematik": 24,
+     "trafik": 73,
+     "cografya": 15,
+     "id": "4"
+    },
+    {
+     "name": "Anita",
+     "surname": "Harvey",
+     "matematik": 63,
+     "trafik": 64,
+     "cografya": 55,
+     "id": "5"
+    },
+    {
+     "name": "Eleonore",
+     "surname": "Heller",
+     "matematik": 39,
+     "trafik": 84,
+     "cografya": 33,
+     "id": "6"
+    },
+    {
+     "name": "Bertrand",
+     "surname": "Wolf",
+     "matematik": 10,
+     "trafik": 43,
+     "cografya": 37,
+     "id": "7"
+    },
+    {
+     "name": "Melyssa",
+     "surname": "Kilback",
+     "matematik": 82,
+     "trafik": 23,
+     "cografya": 11,
+     "id": "8"
+    },
+    {
+     "name": "Donato",
+     "surname": "Harris",
+     "matematik": 58,
+     "trafik": 46,
+     "cografya": 40,
+     "id": "9"
+    },
+    {
+     "name": "Morris",
+     "surname": "Jacobson",
+     "matematik": 96,
+     "trafik": 95,
+     "cografya": 95,
+     "id": "10"
+    },
+    {
+     "name": "Lavon",
+     "surname": "Kirlin",
+     "matematik": 31,
+     "trafik": 81,
+     "cografya": 66,
+     "id": "11"
+    },
+    {
+     "name": "Jaqueline",
+     "surname": "Deckow",
+     "matematik": 37,
+     "trafik": 32,
+     "cografya": 82,
+     "id": "12"
+    },
+    {
+     "name": "Nellie",
+     "surname": "Schroeder",
+     "matematik": 46,
+     "trafik": 42,
+     "cografya": 12,
+     "id": "13"
+    },
+    {
+     "name": "Laney",
+     "surname": "Schiller",
+     "matematik": 47,
+     "trafik": 57,
+     "cografya": 28,
+     "id": "14"
+    },
+    {
+     "name": "Jan",
+     "surname": "Beer",
+     "matematik": 18,
+     "trafik": 60,
+     "cografya": 64,
+     "id": "15"
+    },
+    {
+     "name": "Kassandra",
+     "surname": "Dickinson",
+     "matematik": 25,
+     "trafik": 64,
+     "cografya": 54,
+     "id": "16"
+    },
+    {
+     "name": "Ettie",
+     "surname": "Armstrong",
+     "matematik": 92,
+     "trafik": 83,
+     "cografya": 37,
+     "id": "17"
+    },
+    {
+     "name": "Willis",
+     "surname": "Abshire",
+     "matematik": 27,
+     "trafik": 51,
+     "cografya": 92,
+     "id": "18"
+    },
+    {
+     "name": "Keira",
+     "surname": "Muller",
+     "matematik": 91,
+     "trafik": 70,
+     "cografya": 59,
+     "id": "19"
+    },
+    {
+     "name": "Lysanne",
+     "surname": "Hauck",
+     "matematik": 75,
+     "trafik": 62,
+     "cografya": 50,
+     "id": "20"
+    },
+    {
+     "name": "Theo",
+     "surname": "Satterfield",
+     "matematik": 84,
+     "trafik": 80,
+     "cografya": 69,
+     "id": "21"
+    },
+    {
+     "name": "Lois",
+     "surname": "Wolf",
+     "matematik": 41,
+     "trafik": 56,
+     "cografya": 35,
+     "id": "22"
+    },
+    {
+     "name": "Graciela",
+     "surname": "Effertz",
+     "matematik": 47,
+     "trafik": 62,
+     "cografya": 56,
+     "id": "23"
+    },
+    {
+     "name": "Maeve",
+     "surname": "Heller",
+     "matematik": 48,
+     "trafik": 90,
+     "cografya": 32,
+     "id": "24"
+    },
+    {
+     "name": "Wellington",
+     "surname": "Rath",
+     "matematik": 64,
+     "trafik": 68,
+     "cografya": 28,
+     "id": "25"
+    },
+    {
+     "name": "Austyn",
+     "surname": "Ledner",
+     "matematik": 37,
+     "trafik": 15,
+     "cografya": 31,
+     "id": "26"
+    },
+    {
+     "name": "Kelli",
+     "surname": "Langosh",
+     "matematik": 72,
+     "trafik": 17,
+     "cografya": 65,
+     "id": "27"
+    },
+    {
+     "name": "Lonny",
+     "surname": "Kuvalis",
+     "matematik": 44,
+     "trafik": 88,
+     "cografya": 35,
+     "id": "28"
+    },
+    {
+     "name": "Bennie",
+     "surname": "Jenkins",
+     "matematik": 47,
+     "trafik": 83,
+     "cografya": 40,
+     "id": "29"
+    },
+    {
+     "name": "Beryl",
+     "surname": "Beatty",
+     "matematik": 99,
+     "trafik": 96,
+     "cografya": 76,
+     "id": "30"
+    },
+    {
+     "name": "Giovani",
+     "surname": "Jaskolski",
+     "matematik": 62,
+     "trafik": 23,
+     "cografya": 94,
+     "id": "31"
+    },
+    {
+     "name": "Emil",
+     "surname": "VonRueden",
+     "matematik": 35,
+     "trafik": 58,
+     "cografya": 99,
+     "id": "32"
+    },
+    {
+     "name": "Ernest",
+     "surname": "Kilback",
+     "matematik": 37,
+     "trafik": 59,
+     "cografya": 95,
+     "id": "33"
+    },
+    {
+     "name": "Keagan",
+     "surname": "Schmeler",
+     "matematik": 56,
+     "trafik": 12,
+     "cografya": 42,
+     "id": "34"
+    },
+    {
+     "name": "Barrett",
+     "surname": "Kerluke",
+     "matematik": 54,
+     "trafik": 75,
+     "cografya": 94,
+     "id": "35"
+    },
+    {
+     "name": "Jackie",
+     "surname": "Jakubowski",
+     "matematik": 70,
+     "trafik": 68,
+     "cografya": 96,
+     "id": "36"
+    },
+    {
+     "name": "Yasmeen",
+     "surname": "West",
+     "matematik": 54,
+     "trafik": 28,
+     "cografya": 35,
+     "id": "37"
+    },
+    {
+     "name": "Mikel",
+     "surname": "Bahringer",
+     "matematik": 42,
+     "trafik": 56,
+     "cografya": 69,
+     "id": "38"
+    },
+    {
+     "name": "Augustine",
+     "surname": "Franey",
+     "matematik": 54,
+     "trafik": 61,
+     "cografya": 96,
+     "id": "39"
+    },
+    {
+     "name": "Felipa",
+     "surname": "Kassulke",
+     "matematik": 82,
+     "trafik": 80,
+     "cografya": 56,
+     "id": "40"
+    },
+    {
+     "name": "Katarina",
+     "surname": "Thompson",
+     "matematik": 83,
+     "trafik": 14,
+     "cografya": 33,
+     "id": "41"
+    },
+    {
+     "name": "Susana",
+     "surname": "Ullrich",
+     "matematik": 44,
+     "trafik": 92,
+     "cografya": 100,
+     "id": "42"
+    },
+    {
+     "name": "Barry",
+     "surname": "Bechtelar",
+     "matematik": 58,
+     "trafik": 31,
+     "cografya": 85,
+     "id": "43"
+    },
+    {
+     "name": "Javon",
+     "surname": "Grady",
+     "matematik": 42,
+     "trafik": 57,
+     "cografya": 39,
+     "id": "44"
+    },
+    {
+     "name": "Sincere",
+     "surname": "Predovic",
+     "matematik": 42,
+     "trafik": 13,
+     "cografya": 40,
+     "id": "45"
+    },
+    {
+     "name": "Samson",
+     "surname": "Russel",
+     "matematik": 43,
+     "trafik": 21,
+     "cografya": 20,
+     "id": "46"
+    },
+    {
+     "name": "Mertie",
+     "surname": "Steuber",
+     "matematik": 38,
+     "trafik": 23,
+     "cografya": 94,
+     "id": "47"
+    },
+    {
+     "name": "Glenda",
+     "surname": "Gusikowski",
+     "matematik": 68,
+     "trafik": 69,
+     "cografya": 94,
+     "id": "48"
+    },
+    {
+     "name": "Gwendolyn",
+     "surname": "Breitenberg",
+     "matematik": 88,
+     "trafik": 76,
+     "cografya": 66,
+     "id": "49"
+    },
+    {
+     "name": "Lamont",
+     "surname": "Kuphal",
+     "matematik": 10,
+     "trafik": 60,
+     "cografya": 46,
+     "id": "50"
+    }
+   ]
